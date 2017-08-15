@@ -12,6 +12,7 @@ body {
 #box {
  background-color: black ;
  opacity: .6 ; 
+  font-color: white ; 
 }
  
 #Menu { 
