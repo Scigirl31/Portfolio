@@ -10,7 +10,8 @@ body {
   } 
     
 #box {    
- background-color: white ;
+ background-color: blue ;
+  opacity: .8 ; 
  
 }    
  
