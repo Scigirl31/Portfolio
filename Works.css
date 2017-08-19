@@ -11,8 +11,8 @@ body {
       
 #box {    
  background-color: gray ;
-  opacity: .7 ; 
- 
+ opacity: .7 ;
+ padding: 20px ; 
 }    
  
 #Menu { 
