@@ -1,3 +1,10 @@
+body {
+  background: linear-gradient(to top, #ffff66 3%, #ff0066 96%);
+  font-size: 200%; 
+  font-family: courier;    
+  padding: 90px;    
+}
+
 .title {
     background-color: #EE82EE ; 
     opacity: .9 ; 
